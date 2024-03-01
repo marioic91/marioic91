@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about software development (JAVA), english intermediate 
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Mario Ivan
 - ⚡ Fun fact: Ilike sports like football (soccer), tennis, mountain bike.
 
 <!---

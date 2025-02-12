@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marioic91
+- 👋 Hi, I’m @marioic91 (Mario Ivan Carreño)
 - 👀 I’m interested in software development, accounting, economics and finance
 - 🌱 I’m currently learning about software development (JAVA), english intermediate (B2 LEVEL)
 - 💞️ I’m looking to collaborate on software development projects
